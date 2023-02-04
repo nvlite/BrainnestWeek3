@@ -1,2 +1,2 @@
 # BrainnestWeek3
-javascript assignment RockPaperScissors
+ Week Javascript 3 Assignment 
